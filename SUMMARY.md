@@ -2,14 +2,11 @@
 
 * [Introduction](README.md)
 * [Chapter1](chapter1/README.md)
-<<<<<<< HEAD
     * [Section1.1](chapter1/section1.1.md)
     * [Section1.2](chapter1/section1.2.md)
     * [Section1.4](chapter1/how_to_take_notes.md)
 * [Chapter2](chapter2/README.md)
-=======
   * [Section1.1](chapter1/section1.1.md)
   * [Section1.2](chapter1/section1.2.md)
 * [Chapter2](chapter2.md)
->>>>>>> 49d73ad1acbe23c82e8e3cebcb63e3e9ac811c85
 
